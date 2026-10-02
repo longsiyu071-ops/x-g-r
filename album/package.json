@@ -1,0 +1,15 @@
+{
+  "name": "xingyun-album",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "router.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.33.5"
+  }
+}
